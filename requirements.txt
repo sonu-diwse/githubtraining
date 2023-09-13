@@ -3,3 +3,6 @@ emogi
 type option
 vibrant
 clours
+
+dark mode
+video calls
